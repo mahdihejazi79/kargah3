@@ -63,7 +63,6 @@ void sortFood()
 			struct food temp;
 			temp=f[j];
 			f[j]=f[k];
-			f[k]=temp;
 		}
 	}
 	
